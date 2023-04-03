@@ -9,12 +9,13 @@
 
 使用方法：
 
-```{bash}
+```shell
 cd scripts
 python compute_laladui.py
 ```
 
 示例：
+
 <img src="figures/laladui_example.png">
 
 
@@ -24,12 +25,13 @@ python compute_laladui.py
 
 使用方法：
 
-```{bash}
+```shell
 cd scripts
 python optimal_cooking.py
 ```
 
 示例：
+
 <img src="figures/cooking_example.png">
 
 注：
