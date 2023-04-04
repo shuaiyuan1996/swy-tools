@@ -1,7 +1,7 @@
 # 食物语游戏辅助工具
 ![Python 3.6.9](https://img.shields.io/badge/python-3.6.9-green.svg?style=plastic)
 
-本工具包目前有以下功能
+作者：iOS微信2区 Kolin。本工具包目前有以下功能
 
 ## 计算拉拉队所需的最少资源
 
